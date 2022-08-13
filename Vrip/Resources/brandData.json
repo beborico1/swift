@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Burberry",
+        "category": "Designer",
+        "city": "Londres",
+        "subtright": "Riccardo Tisci",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": false,
+        "subt": "Burberry is a British luxury fashion house headquartered in London, England. Its main fashion house focuses on and distributes trench coats, ready-to-wear outerwear, fashion accessories, fragrances, sunglasses, and cosmetics; it was stablished in 1856 by Thomas Burberry.",
+        "coordinates": {
+            "longitude": -0.118092,
+            "latitude": 51.509865
+        },
+        "imageName": "burberry"
+    },
+    {
+        "name": "Balenciaga",
+        "category": "Designer",
+        "city": "Paris",
+        "subtright": "Demna Gvasalia",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "Balenciaga is a luxury fashion house founded in Spain by Cristóbal Balenciaga, a designer born in Guetaria, Spain; it has had a reputation as a couturier of uncompromising standards and was referred to as the master of us all by Christian Dior. His bubble skirts and odd, feminine, yet modernistic silhouettes became the trademarks of the house.",
+        "coordinates": {
+            "longitude": 2.349014,
+            "latitude": 48.864716
+        },
+        "imageName": "balenciaga"
+    },
+    {
+        "name": "Bape",
+        "category": "Streetwear",
+        "city": "Tokyo",
+        "subtright": "Tomoaki Nagao",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "A bathing Ape (ア・ベイジング・エイプ) o BAPE, es una marca de ropa japonesa fundada por Tomoaki Nagao, conocido como Nigo, en Harajuku en el año 1993; se especializa en ropa de estilo urbano para hombres, mujeres y niños.",
+        "coordinates": {
+            "longitude": 139.839478,
+            "latitude": 35.652832
+        },
+        "imageName": "bape"
+    },
+    {
+        "name": "Versace",
+        "category": "Designer",
+        "city": "Milan",
+        "subtright": "Donatella Versace",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": false,
+        "subt": "Gianni Versace, usually referred to simply as Versace, is an Italian luxury fashion company and trade name founded by Gianni Versace in 1978; it produces upmarket Italian-made ready-to-wear and leather accessories. ",
+        "coordinates": {
+            "longitude": 9.188540,
+            "latitude": 45.464664
+        },
+        "imageName": "versace"
+    },
+    {
+        "name": "Prada",
+        "category": "Designer",
+        "city": "Milan",
+        "subtright": "Miuccia Prada",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "Prada is an Italian luxury fashion house, specializing in leather handbags, travel accessories, shoes, ready-to-wear, perfumes and other fashion accessories, founded in 1913 by Mario Prada.",
+        "coordinates": {
+            "longitude": 9.188540,
+            "latitude": 45.464664
+        },
+        "imageName": "prada"
+    },
+    {
+        "name": "Supreme",
+        "category": "Streetwear",
+        "city": "New York",
+        "subtright": "James Jebbia",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "Supreme is an American skateboarding shop and clothing brand established in New York City in April 1994.  The brand caters to the skateboarding and hip hop cultures as well as to youth culture in general. The brand produces clothes and accessories and also manufactures skateboards. Its shoes, clothing, and accessories are sold extensively in the secondary market.",
+        "coordinates": {
+            "longitude": -73.935242,
+            "latitude": 40.730610
+        },
+        "imageName": "supreme"
+    },
+    {
+        "name": "Louis Vuitton",
+        "category": "Designer",
+        "city": "Paris",
+        "subtright": "Nicolas Ghesquière",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "subt": "Louis Vuitton Malletier, commonly referred to as Louis Vuitton or shortened to LV, is a French fashion house and luxury retail company founded in 1854 by Louis Vuitton.",
+        "coordinates": {
+            "longitude": 2.349014,
+            "latitude": 48.864716
+        },
+        "imageName": "lv"
+    },
+    {
+        "name": "Stussy",
+        "category": "Streetwear",
+        "city": "Irvine",
+        "subtright": "Frank Sinatra Jr.",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "Stüssy is an American clothing brand and private company started some time in the early 1980s by Shawn Stussy. The company is one of many that benefited from the surfwear trend originating in Orange County, California, but it has largely been adopted by the streetwear and hip-hop scenes.",
+        "coordinates": {
+            "longitude": -117.823059,
+            "latitude": 33.669445
+        },
+        "imageName": "stussy"
+    },
+    {
+        "name": "BBC",
+        "category": "Streetwear",
+        "city": "Tokyo",
+        "subtright": "Pharrell Williams",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "Billionaire Boys Club and ICECREAM are clothing and accessory brands that blend streetwear and luxury. Its motto is: Wealth is of the heart and mind, not the pocket.",
+        "coordinates": {
+            "longitude": 139.839478,
+            "latitude": 35.652832
+        },
+        "imageName": "bbc"
+    },
+    {
+        "name": "Nike",
+        "category": "Streetwear",
+        "city": "Beaverton",
+        "subtright": "Many designers",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "Nike is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services.",
+        "coordinates": {
+            "longitude": -122.804489,
+            "latitude": 45.485168
+        },
+        "imageName": "nike"
+    },
+    {
+        "name": "Gucci",
+        "category": "Designer",
+        "city": "Florence",
+        "subtright": "Alessandro Michele",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "subt": "Gucci is an Italian luxury brand of fashion and leather goods founded by Guccio Gucci in Florence in 1921.",
+        "coordinates": {
+            "longitude": 11.255814,
+            "latitude": 43.769562
+        },
+        "imageName": "gucci"
+    },
+    {
+        "name": "Palace",
+        "category": "Streetwear",
+        "city": "London",
+        "subtright": "Lev Tanju",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": false,
+        "subt": "Palace Skateboards is a London-based skateboard shop and clothing brand established in 2009. The brand was primarily heavily worn by founder Levent Tanju and his skate team, Palace Wayward Boys Choir. Palace focuses on skate wear with heavy 1990s and pop culture influences alongside VHS style clothing advertisements and skateboard videos of their skate team.",
+        "coordinates": {
+            "longitude": -0.118092,
+            "latitude": 51.509865
+        },
+        "imageName": "palace"
+    }
+]
